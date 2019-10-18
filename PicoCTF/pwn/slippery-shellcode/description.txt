@@ -1,2 +1,0 @@
-200 Points.
-This program is a little bit more tricky. Can you spawn a shell and use that to read the flag.txt? You can find the program in /problems/slippery-shellcode_2_4061c12f5a4a9d8c1c3f45b25fbcb09a on the shell server
