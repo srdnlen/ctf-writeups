@@ -1,0 +1,4 @@
+250 Points.
+Okay now lets try mainpulating arguments. program. You can find it in /problems/newoverflow-2_6_7ad6f9ae139af784698ca1b9be8beff7 on the shell server. 
+
+hint: Arguments aren't stored on the stack anymore ;)
