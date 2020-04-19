@@ -1,5 +1,5 @@
 # dont@me Writeup by Srdnlen
-### Category: PWN. Solves: 2
+### Category: PWN. Solves: 3
 ### Description:
 WORKING AGAIN. If you have any trouble, please contact admins on discord (awg). Same binary as before. Twitter api gets weird with tweets longer than 140 characters, so try to keep them shorter. (@name doesn't add to length) Also twitter api can be somewhat slow. Give it at least 10 min before giving up. Also don't use a private account, that just wont work.
 
